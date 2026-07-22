@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nishihar/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/nishihar/Leetcode/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/nishihar/Leetcode/tree/master/0414-third-maximum-number) |
 | [1480-running-sum-of-1d-array](https://github.com/nishihar/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nishihar/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nishihar/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/nishihar/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nishihar/Leetcode/tree/master/0202-happy-number) |
 ## Hash Table
 |  |
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/nishihar/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nishihar/Leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/nishihar/Leetcode/tree/master/0263-ugly-number) |
 | [1323-maximum-69-number](https://github.com/nishihar/Leetcode/tree/master/1323-maximum-69-number) |
