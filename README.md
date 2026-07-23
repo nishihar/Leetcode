@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nishihar/Leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/nishihar/Leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/nishihar/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/nishihar/Leetcode/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/nishihar/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0890-find-and-replace-pattern](https://github.com/nishihar/Leetcode/tree/master/0890-find-and-replace-pattern) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/nishihar/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/nishihar/Leetcode/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/nishihar/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0890-find-and-replace-pattern](https://github.com/nishihar/Leetcode/tree/master/0890-find-and-replace-pattern) |
