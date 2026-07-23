@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nishihar/Leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/nishihar/Leetcode/tree/master/0202-happy-number) |
+| [0383-ransom-note](https://github.com/nishihar/Leetcode/tree/master/0383-ransom-note) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nishihar/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Math
 |  |
@@ -50,9 +51,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/nishihar/Leetcode/tree/master/0383-ransom-note) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nishihar/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/nishihar/Leetcode/tree/master/0383-ransom-note) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nishihar/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 <!---LeetCode Topics End-->
