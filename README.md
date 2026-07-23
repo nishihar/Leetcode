@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/nishihar/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/nishihar/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0890-find-and-replace-pattern](https://github.com/nishihar/Leetcode/tree/master/0890-find-and-replace-pattern) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/nishihar/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1480-running-sum-of-1d-array](https://github.com/nishihar/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nishihar/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/nishihar/Leetcode/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/nishihar/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0890-find-and-replace-pattern](https://github.com/nishihar/Leetcode/tree/master/0890-find-and-replace-pattern) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/nishihar/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nishihar/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Math
 |  |
@@ -59,10 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/nishihar/Leetcode/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/nishihar/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0890-find-and-replace-pattern](https://github.com/nishihar/Leetcode/tree/master/0890-find-and-replace-pattern) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/nishihar/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nishihar/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/nishihar/Leetcode/tree/master/0383-ransom-note) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/nishihar/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nishihar/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 <!---LeetCode Topics End-->
