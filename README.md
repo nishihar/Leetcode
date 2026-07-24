@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/nishihar/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/nishihar/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/nishihar/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0881-boats-to-save-people](https://github.com/nishihar/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/nishihar/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/nishihar/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1480-running-sum-of-1d-array](https://github.com/nishihar/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nishihar/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nishihar/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/nishihar/Leetcode/tree/master/0283-move-zeroes) |
+| [0881-boats-to-save-people](https://github.com/nishihar/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,10 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/nishihar/Leetcode/tree/master/0414-third-maximum-number) |
+| [0881-boats-to-save-people](https://github.com/nishihar/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nishihar/Leetcode/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/nishihar/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1323-maximum-69-number](https://github.com/nishihar/Leetcode/tree/master/1323-maximum-69-number) |
 ## Prefix Sum
 |  |
