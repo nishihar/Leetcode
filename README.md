@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nishihar/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/nishihar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/nishihar/Leetcode/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/nishihar/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/nishihar/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/nishihar/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/nishihar/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nishihar/Leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/nishihar/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/nishihar/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/nishihar/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/nishihar/Leetcode/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/nishihar/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0890-find-and-replace-pattern](https://github.com/nishihar/Leetcode/tree/master/0890-find-and-replace-pattern) |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nishihar/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/nishihar/Leetcode/tree/master/0704-binary-search) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/nishihar/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
