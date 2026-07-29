@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/nishihar/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/nishihar/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1480-running-sum-of-1d-array](https://github.com/nishihar/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/nishihar/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nishihar/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/nishihar/Leetcode/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nishihar/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/nishihar/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Queue
 |  |
 | ------- |
