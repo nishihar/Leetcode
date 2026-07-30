@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/nishihar/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/nishihar/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/nishihar/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/nishihar/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/nishihar/Leetcode/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/nishihar/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/nishihar/Leetcode/tree/master/0890-find-and-replace-pattern) |
@@ -166,4 +167,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nishihar/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/nishihar/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/nishihar/Leetcode/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/nishihar/Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
