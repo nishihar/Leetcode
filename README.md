@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/nishihar/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1089-duplicate-zeros](https://github.com/nishihar/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/nishihar/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/nishihar/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nishihar/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/nishihar/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/nishihar/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/nishihar/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0890-find-and-replace-pattern](https://github.com/nishihar/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/nishihar/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/nishihar/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nishihar/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Math
 |  |
