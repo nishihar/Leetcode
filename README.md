@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nishihar/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/nishihar/Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/nishihar/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/nishihar/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/nishihar/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nishihar/Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/nishihar/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nishihar/Leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/nishihar/Leetcode/tree/master/0263-ugly-number) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nishihar/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/nishihar/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/nishihar/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nishihar/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
