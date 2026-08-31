@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/nishihar/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nishihar/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/nishihar/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0841-keys-and-rooms](https://github.com/nishihar/Leetcode/tree/master/0841-keys-and-rooms) |
 ## Binary Tree
 |  |
 | ------- |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/nishihar/Leetcode/tree/master/0112-path-sum) |
+| [0841-keys-and-rooms](https://github.com/nishihar/Leetcode/tree/master/0841-keys-and-rooms) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -314,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1763-longest-nice-substring](https://github.com/nishihar/Leetcode/tree/master/1763-longest-nice-substring) |
+## Graph Theory
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/nishihar/Leetcode/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
