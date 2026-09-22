@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/nishihar/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/nishihar/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1004-max-consecutive-ones-iii](https://github.com/nishihar/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/nishihar/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/nishihar/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## String
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/nishihar/Leetcode/tree/master/0925-long-pressed-name) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/nishihar/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1332-remove-palindromic-subsequences](https://github.com/nishihar/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/nishihar/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1763-longest-nice-substring](https://github.com/nishihar/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nishihar/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Counting
